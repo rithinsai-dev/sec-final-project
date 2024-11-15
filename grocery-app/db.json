@@ -1,0 +1,9 @@
+{
+    "products": [
+      { "id": 1, "name": "Apple", "price": 1.5, "quantity": 100, "category": "fruits" },
+      { "id": 2, "name": "Banana", "price": 0.5, "quantity": 150, "category": "fruits" },
+      { "id": 3, "name": "Milk", "price": 1.0, "quantity": 50, "category": "dairy" },
+      { "id": 4, "name": "Bread", "price": 1.2, "quantity": 80, "category": "bakery" }
+    ]
+  }
+  
