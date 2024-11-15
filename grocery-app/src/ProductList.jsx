@@ -16,7 +16,7 @@ function ProductList() {
       <ul>
         {products.map(product => (
           <li key={product.id}>
-            <strong>{product.name}</strong> - {product.price} Rs ({product.quantity} in stock)
+            <strong>{product.name}</strong> - ${product.price} ({product.quantity} in stock)
           </li>
         ))}
       </ul>
